@@ -46,4 +46,11 @@ An external style sheet is used to define the style for many HTML pages.
 
 All types of CSS example in the file name 07 Css so please check it out.....
 
+Few CSS property:-
+1)The CSS color property defines the text color to be used.
+2)The CSS font-family property defines the font to be used.
+3)The CSS font-size property defines the text size to be used.
+4)The CSS border property defines a border around an HTML element.
+5)The CSS padding property defines a padding (space) between the text and the border.
+6)The CSS margin property defines a margin (space) outside the border.
 Thank you
