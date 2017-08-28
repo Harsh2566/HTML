@@ -30,4 +30,20 @@ I will talk about HTML color, if you have to define color in HTML so there are t
 2)HEX value    (#RRGGBB)
 3)RGB value     RGB(0,0,0)     Intensity of color is between 0 to 255....
 
+HTML CSS:-
+CSS Stands for Cascading Style Sheets.....
+CSS Save a lot of work.....
+CSS is describe how HTML elements are to be show in browser or display....
+
+There are three types of CSS
+1)Inline CSS        (using style attribute in HTMl elements)
+2)Internal CSS      (using a <style> element in the <head> section)
+3)External CSS      (using External file)
+
+An inline CSS is used to apply a unique style to a single HTML element.
+An internal CSS is used to define a style for a single HTML page.
+An external style sheet is used to define the style for many HTML pages.
+
+All types of CSS example in the file name 07 Css so please check it out.....
+
 Thank you
