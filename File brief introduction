@@ -1,25 +1,17 @@
-Today is 25th august and i learn attribute in Html
-
-Many attribute in HTML like:-title,href,size,alt,etc......
-
+Today is 25th august and i learn attribute in Html, Many attribute in HTML like:-title,href,size,alt,etc......
 if you want file check out the HTMl Basic folder...
 
 how to write paragraph it show paragraph file and also you can see how to use <br> and <pre> tag...
-
 <br> tag:- br tag is use for line break...... 
 <pre> tag:- pre tag is use for preformatted-text.....
 
 Thank you
 ______________________________________________________________________________________________________________________________________
 
-Today is 26th august,
-
-today i learn how to give style in HTml tag...
-
+Today is 26th august, i learn how to give style in HTml tag...
 different different style attribute is used in file if you want to check then you have to go 05 style.html 
 
 Thank you
-
 _____________________________________________________________________________________________________________________________________
 
 Today is 27th august,
@@ -27,5 +19,15 @@ Today is 27th august,
 Today i make one file about all formatting in HTML
 Many attribute is included in this file so you can better understand how to work on formatting in HTML
 so plz check it out 06 Formatting.html file
+
+Thank you
+____________________________________________________________________________________________________________________________________
+
+Today is 28th august, 
+
+I will talk about HTML color, if you have to define color in HTML so there are three types
+1)color name    red,green,blue,etc......
+2)HEX value    (#RRGGBB)
+3)RGB value     RGB(0,0,0)     Intensity of color is between 0 to 255....
 
 Thank you
