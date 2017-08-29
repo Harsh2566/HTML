@@ -76,10 +76,10 @@ There are 5 types of attribute:-
 3)_parent = Opens the linked document in the parent frame
 4)_top = Opens the linked document in the full body of the window
 5)framename = Opens the linked document in a named frame
-also you can create image as link. both combine example you can see in (09 Linkattribute.html) file.
+also you can create image as link. both combine example you can see in (09 Linkattribute) file.
 
 if your webpage is very big so you can create a bookmark and only one click you can direct jump on where link is opened.
-example you can see in (09 Linkattribute.html) file.
+example you can see in (09 Linkattribute) file.
 
 Thank you
 ________________________________________________________________________________________________________________________________________
