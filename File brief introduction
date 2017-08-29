@@ -67,6 +67,20 @@ HTML LINK:-
 i have to upload one file about HTML link in that file i will create different different style in link if link is click that time 
 different color show if mouse over the link that time change color so plz check it out...
 
+HTML LINK - The target attribute
+The target attribute specifies where to open the linked document.
+
+There are 5 types of attribute:-
+1)_blank = Opens the linked document in a new window or tab
+2)_self = Opens the linked document in the same window/tab as it was clicked (this is default)
+3)_parent = Opens the linked document in the parent frame
+4)_top = Opens the linked document in the full body of the window
+5)framename = Opens the linked document in a named frame
+also you can create image as link. both combine example you can see in (09 Linkattribute.html) file.
+
+if your webpage is very big so you can create a bookmark and only one click you can direct jump on where link is opened.
+example you can see in (09 Linkattribute.html) file.
+
 Thank you
 ________________________________________________________________________________________________________________________________________
 
