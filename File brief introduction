@@ -84,3 +84,15 @@ example you can see in (09 Linkattribute) file.
 Thank you
 ________________________________________________________________________________________________________________________________________
 
+Today is 30th august,
+
+HTML image,
+- The <img> tag is empty, it contains attributes only, and does not have a closing tag.
+- alt attribute define alternet text for image if some kind of error in browser that time alt attribute is show alternet text.
+- You can use the style attribute to specify the width and height of an image.
+- incase you have create a one file with text as well as image so line by line whatever you have to do it show in output but you can
+  see both file at once position so you can use CSS float property.
+  
+  Thank you
+  ______________________________________________________________________________________________________________________________________
+  
