@@ -86,7 +86,7 @@ ________________________________________________________________________________
 
 Today is 30th august,
 
-HTML image,
+HTML image:-
 - The <img> tag is empty, it contains attributes only, and does not have a closing tag.
 - alt attribute define alternet text for image if some kind of error in browser that time alt attribute is show alternet text.
 - You can use the style attribute to specify the width and height of an image.
@@ -95,4 +95,17 @@ HTML image,
 file you can see (10 image) this folder so please check it out
 Thank you
 ________________________________________________________________________________________________________________________________________
-  
+
+Today is 2nd september,
+
+HTML Table:-
+- <table> tag is used for table,if you want to table in HTML form that time you have to use <table> tag..
+- <tr> tage is used for table row.
+- <th> tag is used for table heading.
+- <td> tag is used for table data.
+simple table create after that all tag using,if you want to gave style then you have to give
+-<style>
+border,border-collapse,font-family,padding,text-align,etc.....
+
+Thank you
+________________________________________________________________________________________________________________________________________
