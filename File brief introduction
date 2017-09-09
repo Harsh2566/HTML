@@ -105,7 +105,9 @@ HTML Table:-
 - <td> tag is used for table data.
 simple table create after that all tag using,if you want to gave style then you have to give
 -<style>
-border,border-collapse,font-family,padding,text-align,etc.....
+border,border-collapse,font-family,padding,text-align,etc.....example is shown in 11(1) Table 
+
+-There are two more Table first one is COLSPAN table and second table is ROWSPAN table.....example is shown in 11(2) Table
 
 Thank you
 ________________________________________________________________________________________________________________________________________
