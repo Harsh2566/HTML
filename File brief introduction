@@ -105,9 +105,23 @@ HTML Table:-
 - <td> tag is used for table data.
 simple table create after that all tag using,if you want to gave style then you have to give
 -<style>
-border,border-collapse,font-family,padding,text-align,etc.....example is shown in 11(1) Table 
+border,border-collapse,font-family,padding,text-align,etc.....example is shown in (11(1) Table) 
 
--There are two more Table first one is COLSPAN table and second table is ROWSPAN table.....example is shown in 11(2) Table
+-There are two more Table first one is COLSPAN table and second table is ROWSPAN table.....example is shown in (11(2) Table)
+
+Thank you
+________________________________________________________________________________________________________________________________________
+
+Today is 10th september,
+
+HTML LIST:-
+-There are four type of list first one is unorder list, second one is order list, third one is description list and last one is 
+ Nested list
+-There are four list style type in unorderlist....disc(by default),circle,squre,none.
+-There are five type in orderlist......1,A,a,I(uppercase roman letter),i(lowercase roman letter).
+-Description list has three tag <dl> = Data list,<dt> = Data title,<dd> = Data Description
+-Nested list show more option of one item 
+all list example is shown in (12 List) 
 
 Thank you
 ________________________________________________________________________________________________________________________________________
