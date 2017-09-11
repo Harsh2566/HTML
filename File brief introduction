@@ -128,3 +128,15 @@ all list example is shown in (12 List)
 
 Thank you
 ________________________________________________________________________________________________________________________________________
+
+Today is 11th september,
+=>Block level element
+ - A block level element is always start on new line and it take full width available.
+ - example:- These are block level element (1)<div> tag (2)<h1> to <h6> tags (3)<p> tag (4)<form> tag
+=>Inline element
+ - An inline element does not start on a new line and it only takes up as much width as necessary.
+ - example:- These are inline element (1)<span> tag (2)<a> tag (3)<img> tag
+=> <div> tag and <span> tag example is show in (14 Blockinline) file.
+
+Thank you
+________________________________________________________________________________________________________________________________________
