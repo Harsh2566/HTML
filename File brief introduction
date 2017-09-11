@@ -137,6 +137,7 @@ Today is 11th september,
  - An inline element does not start on a new line and it only takes up as much width as necessary.
  - example:- These are inline element (1)<span> tag (2)<a> tag (3)<img> tag
 => <div> tag and <span> tag example is show in (14 Blockinline) file.
+=> HTML Class:- class is selector (like id) css and style both can be define in class selector...example show in (15 Class)file.
 
 Thank you
 ________________________________________________________________________________________________________________________________________
