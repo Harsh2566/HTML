@@ -145,4 +145,17 @@ ________________________________________________________________________________
 Today is 12th september,
 => HTML iframe.......syntax:-<iframe src="URL"></iframe>
 Where src = URL of inline frame page
+Thank you
+________________________________________________________________________________________________________________________________________
+
+Today is 13th september,
+=> HTML Javascript
+-JavaScript makes HTML pages more dynamic and interactive.
+-The <script> tag is used to define a client-side script (JavaScript).
+-Common uses for JavaScript are image manipulation, form validation, and dynamic changes of content.
+-To select an HTML element, JavaScript very often use the document.getElementById(id) method.
+-javascript can change HTML style and attribute.
+
+Thank you
+________________________________________________________________________________________________________________________________________
 
