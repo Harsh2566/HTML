@@ -155,7 +155,13 @@ Today is 13th september,
 -Common uses for JavaScript are image manipulation, form validation, and dynamic changes of content.
 -To select an HTML element, JavaScript very often use the document.getElementById(id) method.
 -javascript can change HTML style and attribute.
+-example shown in (17 Javascript)..so please check it out.
 
 Thank you
 ________________________________________________________________________________________________________________________________________
+
+Today is 14th september,
+=> HTML File path
+- A file path describe the location of file in website folder structure.
+- file path are used when linking to external files like web-pages,stylesheets,images,javascripts. 
 
