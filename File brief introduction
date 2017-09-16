@@ -165,3 +165,9 @@ Today is 14th september,
 - A file path describe the location of file in website folder structure.
 - file path are used when linking to external files like web-pages,stylesheets,images,javascripts. 
 
+Today is 16th september,
+=> HTML Head
+- The <head> element is contain metadata and it's placed between <html> and <body> tag.
+- Metadata define are HTML document title,charset,style,link,script and other meta information.
+- <title>, <style>, <meta>, <link>, <script>, and <base> these all tag are describe as metadata.
+
