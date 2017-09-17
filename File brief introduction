@@ -171,3 +171,10 @@ Today is 16th september,
 - Metadata define are HTML document title,charset,style,link,script and other meta information.
 - <title>, <style>, <meta>, <link>, <script>, and <base> these all tag are describe as metadata.
 
+Today is 17th september,
+=> HTML Layout
+- There are four different ways to create multicolum layout 1)HTML Table, 2)CSS framework, 3)CSS Float property, 4)CSS Flexbox.
+- Table tag was not designed to be a layout tool.
+- If you want to create your layout fast, you can use CSS framework.
+- Float property is easy to learn, you just need remember hoe it's work..
+- Flexbox is a new layout mode in CSS 3.
