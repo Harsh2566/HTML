@@ -156,3 +156,9 @@ Today is 18th september,
 - A non-breaking space is a space that will not break into a new line.
 - For some other useful HTML character entities you have to go this link => https://www.w3schools.com/html/html_entities.asp
 
+=> HTML Charset
+- To display HTML page correctly, a web browser must known which character set to use.
+- ASCII was the first character encoding standard (also called character set). ASCII defined 128 different alphanumeric characters.
+- ANSI character set support 256 different character.
+- ISO-8859-1 was the default character set for HTML 4. This character set also supported 256 different character codes.
+
