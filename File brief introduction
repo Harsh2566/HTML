@@ -147,3 +147,12 @@ Today is 17th september,
 3) <samp> tag:- defines computer output
 4) <pre> tag:- defines preformatted text
 5) <var> tag:- defines variable 
+
+Today is 18th september,
+=> HTML Entities
+- Reserved characters in HTML must be replaced with character entities.
+- Characters that are not present on your keyboard can also be replaced by entities.
+- A common character entity used in HTML is the non-breaking space: &nbsp;
+- A non-breaking space is a space that will not break into a new line.
+- For some other useful HTML character entities you have to go this link => https://www.w3schools.com/html/html_entities.asp
+
