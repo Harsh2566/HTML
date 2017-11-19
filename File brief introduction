@@ -169,4 +169,10 @@ Where src = URL of inline frame page
 - POST has no size limitations, and can be used to send large amounts of data.
 - Form submissions with POST cannot be bookmarked.
 
-
+=> HTML Form elements
+- <input> tag is for input.
+- <select> and <option> tag is for dropdownlist.
+- <textarea> is for long message.
+- <button> is for button.
+- The <datalist> element specifies a list of pre-defined options for an <input> element.
+- The <output> element represents the result of a calculation.
