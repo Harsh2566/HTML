@@ -1,4 +1,4 @@
-Today is 25th august,
+=> HTML BASIC
 - i learn attribute in Html, Many attribute in HTML like:-title,href,size,alt,etc......
 - if you want file check out the HTMl Basic folder...
 
@@ -6,17 +6,17 @@ Today is 25th august,
 - <br> tag:- br tag is use for line break...... 
 - <pre> tag:- pre tag is use for preformatted-text.....
 
-Today is 26th august,
+=>
 - i learn how to give style in HTml tag...
 - different different style attribute is used in file if you want to check then you have to go 05 style.html 
 
-Today is 27th august,
+=>
 - Today i make one file about all formatting in HTML
 - Many attribute is included in this file so you can better understand how to work on formatting in HTML
 - so plz check it out 06 Formatting.html file
-
-Today is 28th august, 
-=>I will talk about HTML color, if you have to define color in HTML so there are three types
+ 
+=>
+I will talk about HTML color, if you have to define color in HTML so there are three types
 1)color name    red,green,blue,etc......
 2)HEX value    (#RRGGBB)
 3)RGB value     RGB(0,0,0)     Intensity of color is between 0 to 255....
@@ -44,14 +44,13 @@ Today is 28th august,
 5)The CSS padding property defines a padding (space) between the text and the border.
 6)The CSS margin property defines a margin (space) outside the border.
 
-Today is 29th august,
 => HTML LINK:-
 1)HTML links are hyperlinks.
 2)You can click on a link and jump to another document.
 3)When you move the mouse over a link, the mouse arrow will turn into a little hand.
 
 - i have to upload one file about HTML link in that file i will create different different style in link if link is click that time 
-  different color show if mouse over the link that time change color so plz check it out...
+  different color show if mouse hover the link that time change color so plz check it out...
 
 => HTML LINK - The target attribute
 - The target attribute specifies where to open the linked document.
@@ -65,7 +64,6 @@ Today is 29th august,
 - if your webpage is very big so you can create a bookmark and only one click you can direct jump on where link is opened.
   example you can see in (09 Linkattribute) file.
 
-Today is 30th august,
 => HTML image:-
 - The <img> tag is empty, it contains attributes only, and does not have a closing tag.
 - alt attribute define alternet text for image if some kind of error in browser that time alt attribute is show alternet text.
@@ -74,7 +72,6 @@ Today is 30th august,
   see both file at once position so you can use CSS float property.
 - file you can see (10 image) this folder so please check it out
 
-Today is 2nd september,
 => HTML Table:-
 - <table> tag is used for table,if you want to table in HTML form that time you have to use <table> tag..
 - <tr> tage is used for table row.
@@ -83,7 +80,6 @@ Today is 2nd september,
 - example is shown in (11(1) Table). 
 - There are two more Table first one is COLSPAN table and second table is ROWSPAN table.....example is shown in (11(2) Table).
 
-Today is 10th september,
 => HTML LIST:-
 - There are four type of list first one is unorder list, second one is order list, third one is description list and last one is 
   Nested list
@@ -95,7 +91,6 @@ Today is 10th september,
 - second thig is that i have learn to make a menubar with using unorderlist and lots of style i have to use to make menubar
   so please check it out in (13 Menubar) file.
 
-Today is 11th september,
 => Block level element
  - A block level element is always start on new line and it take full width available.
  - example:- These are block level element (1)<div> tag (2)<h1> to <h6> tags (3)<p> tag (4)<form> tag
@@ -105,11 +100,9 @@ Today is 11th september,
 => <div> tag and <span> tag example is show in (14 Blockinline) file.
 => HTML Class:- class is selector (like id) css and style both can be define in class selector...example show in (15 Class)file.
 
-Today is 12th september,
 => HTML iframe.......syntax:-<iframe src="URL"></iframe>
 Where src = URL of inline frame page
 
-Today is 13th september,
 => HTML Javascript
 - JavaScript makes HTML pages more dynamic and interactive.
 - The <script> tag is used to define a client-side script (JavaScript).
@@ -118,18 +111,15 @@ Today is 13th september,
 - javascript can change HTML style and attribute.
 - example shown in (17 Javascript)..so please check it out.
 
-Today is 14th september,
 => HTML File path
 - A file path describe the location of file in website folder structure.
 - file path are used when linking to external files like web-pages,stylesheets,images,javascripts. 
 
-Today is 16th september,
 => HTML Head
 - The <head> element is contain metadata and it's placed between <html> and <body> tag.
 - Metadata define are HTML document title,charset,style,link,script and other meta information.
 - <title>, <style>, <meta>, <link>, <script>, and <base> these all tag are describe as metadata.
 
-Today is 17th september,
 => HTML Layout
 - There are four different ways to create multicolum layout 1)HTML Table, 2)CSS framework, 3)CSS Float property, 4)CSS Flexbox.
 - Table tag was not designed to be a layout tool.
@@ -148,7 +138,6 @@ Today is 17th september,
 4) <pre> tag:- defines preformatted text
 5) <var> tag:- defines variable 
 
-Today is 18th september,
 => HTML Entities
 - Reserved characters in HTML must be replaced with character entities.
 - Characters that are not present on your keyboard can also be replaced by entities.
@@ -161,4 +150,23 @@ Today is 18th september,
 - ASCII was the first character encoding standard (also called character set). ASCII defined 128 different alphanumeric characters.
 - ANSI character set support 256 different character.
 - ISO-8859-1 was the default character set for HTML 4. This character set also supported 256 different character codes.
+
+=> HTML Form  
+- The <input> element is very important in form, it can be displayed many ways depends on type attribute.
+- The action attribute defines the action to be performed when the form is submitted.
+- The target attribute specifies if the submitted result will open in a new browser tab, a frame, or in the current window.
+- The method attribute specifies the HTTP method (GET or POST) to be used when submitting the form data.
+- Each input field must have a name attribute to be submitted.
+- The <fieldset> element is used to group related data in a form.
+- The <legend> element defines a caption for the <fieldset> element.
+=> GET method
+- Appends form-data into the URL in name/value pairs.
+- The length of a URL is limited (about 3000 characters)
+- Never use GET to send sensitive data! (will be visible in the URL)
+- Useful for form submissions where a user want to bookmark the result
+- GET is better for non-secure data, like query strings in Google
+=> POST method
+- POST has no size limitations, and can be used to send large amounts of data.
+- Form submissions with POST cannot be bookmarked.
+
 
